@@ -1,3 +1,3 @@
 1NN_resize_npy:
 
-輸入編號與沒有resize的圖片，輸出resize過的圖片的npy檔案
+輸入編號與沒有resize的圖片，輸出resize過的圖片的npy檔案與label的npy檔案
