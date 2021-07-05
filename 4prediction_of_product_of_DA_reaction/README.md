@@ -8,6 +8,6 @@
 
 ## 使用CNN
 
-### defferent_C_eig_2CNN.ipynb
+### 3rd_nn.ipynb
 
-產生許多能預測出是HOMO/LUMO/都不是的神經網路
+產生預測該位置是否會反應的神經網路模型
