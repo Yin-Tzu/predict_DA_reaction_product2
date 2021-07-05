@@ -14,6 +14,6 @@
 
 輸入各個image&label的npy檔案，腳在一起後，輸出X_train,X_valid,X_test,y_train_label,y_valid_label,y_test_label的npy檔案
 
-### divided_to_ring_or_straight
+### 1differentCNN_3D20C.ipynb
 
-使用CNN預測是否是環還是直鏈
+使用CNN預測值鏈碳數
