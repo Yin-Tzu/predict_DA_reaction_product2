@@ -1,20 +1,9 @@
-### cutvideotoimage:
+# 數據前處理
 
-先使用cutvideotoimage把影片截成好幾張圖片(程式、輸入圖片、輸出圖片)
+### 特徵向量預測HOMOLUMO的數據集.ipynb
 
-### 手動
+最後倒數2到5程式才是這次數據產生的程式碼
 
-把沒辦法表現出正確分子結構的圖片刪除，並且剩下的張數與其他結構的張數相同，避免訓練數量不平均的問題(手動)
+依照軌域或隨機，以及環或是直鏈分成四個程式
 
-### 1NN_resize_npy:
-
-輸入編號與沒有resize的圖片，輸出resize過的圖片的npy檔案與label的npy檔案
-
-### imglabeltotrainvalidtestdataset:
-
-輸入各個image&label的npy檔案，腳在一起後，輸出X_train,X_valid,X_test,y_train_label,y_valid_label,y_test_label的npy檔案
-
-### divided_to_5ring_or_6ring.ipynb
-
-使用CNN預測環碳數
-
+真正當作數據集的是隨機的環與隨機的直鏈
