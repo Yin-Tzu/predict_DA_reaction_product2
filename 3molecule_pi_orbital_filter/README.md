@@ -14,3 +14,9 @@
 ### defferent_C_eig_2CNN.ipynb
 
 產生許多能預測出是HOMO/LUMO/都不是的神經網路
+
+<img src="" width = "80%" />
+
+<img src="" width = "80%" />
+
+<img src="" width = "80%" />
