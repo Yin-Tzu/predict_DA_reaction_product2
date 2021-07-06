@@ -22,3 +22,5 @@
 
 『選擇某個位置的話，是否會發生化學反應』。這時輸出有『會反應』以及『不會反應』兩類別的機率，用以判斷產物鍵結
 
+https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/flow_chart_product_prediction_of_DA_reaction.png
+
