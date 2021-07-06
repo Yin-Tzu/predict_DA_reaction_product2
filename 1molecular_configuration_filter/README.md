@@ -18,7 +18,5 @@
 
 使用CNN預測是否是環還是直鏈
 
-![avatar](https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/1molecular_configuration_filter/CNN_molecular_configuration_filter.png = x100)
-
-
+<img src="https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/1molecular_configuration_filter/CNN_molecular_configuration_filter.png" width = "80%" />
 
