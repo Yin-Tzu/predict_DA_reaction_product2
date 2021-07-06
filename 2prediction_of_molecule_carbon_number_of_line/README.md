@@ -17,3 +17,5 @@
 ### 1differentCNN_3D20C.ipynb
 
 使用CNN預測值鏈碳數
+
+https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/2prediction_of_molecule_carbon_number_of_line/CNN_prediction_of_molecule_carbon_number_of_line.png
