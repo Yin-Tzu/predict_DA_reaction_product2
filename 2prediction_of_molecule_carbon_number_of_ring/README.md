@@ -18,4 +18,4 @@
 
 使用CNN預測環碳數
 
-<img src="" width = "80%" />
+<img src="https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/2prediction_of_molecule_carbon_number_of_ring/CNN_prediction_of_molecule_carbon_number_of_ring.png" width = "50%" />
