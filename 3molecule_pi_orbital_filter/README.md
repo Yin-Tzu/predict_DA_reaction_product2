@@ -21,6 +21,8 @@
 
 <img src="https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/3molecule_pi_orbital_filter/CNN_8Cline_molecule_pi_orbital_filter.png" width = "60%" />
 
-<img src="" width = "80%" />
+6ring
+
+<img src="https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/3molecule_pi_orbital_filter/CNN_6Cring_molecule_pi_orbital_filter.png" width = "60%" />
 
 <img src="" width = "80%" />
