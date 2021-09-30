@@ -22,3 +22,8 @@
 
 <img src="https://github.com/Yin-Tzu/predict_DA_reaction_product2/raw/main/1molecular_configuration_filter/CNN_molecular_configuration_filter.png" width = "80%" />
 
+### 其他:
+
+divided_to_ring_or_straight.ipynb是預測值鏈與環狀的深度學習，已經沒再用
+
+divided_to_ring_or_straight.png是預測值鏈與環狀的深度學習圖案，已經沒再用
