@@ -6,9 +6,9 @@ import numpy as np
 import copy
 
 def cutvideotoimage(inputname,outputname,foldernamed,imgnumber):
-  clip = VideoFileClip(inputname)
+  clip = VideoFileClip(inputname)                                             # 本程式使用VideoFileClip來幾算秒數，以利於根據秒數擷取圖片(第25行)
   print( clip.duration ) # seconds
-  vidcap = cv2.VideoCapture(inputname)
+  vidcap = cv2.VideoCapture(inputname)                                        # 本程式使用VideoCapture使影片截圖，()裡可以是影片或是攝影機
   if not os.path.exists(foldernamed):
     os.makedirs(foldernamed)
   else:
@@ -17,7 +17,7 @@ def cutvideotoimage(inputname,outputname,foldernamed,imgnumber):
     os.makedirs(foldernamed)
   def getFrame(sec):
       vidcap.set(cv2.CAP_PROP_POS_MSEC,sec*1000)
-      hasFrames,image = vidcap.read()
+      hasFrames,image = vidcap.read()                                          # https://medium.com/ching-i/python-opencv-%E8%AE%80%E5%8F%96%E9%A1%AF%E7%A4%BA%E5%8F%8A%E5%84%B2%E5%AD%98%E5%BD%B1%E5%83%8F-%E5%BD%B1%E7%89%87-ee3701c454da
       if hasFrames:
           cv2.imwrite(foldernamed+'/'+outputname+str(count)+".png", image)     # save frame as JPG file
       return hasFrames
